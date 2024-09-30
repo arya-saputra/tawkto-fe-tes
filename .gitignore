@@ -1,0 +1,6 @@
+node_modules
+.nuxt
+# Local Netlify folder
+dist
+static_pages
+.env
